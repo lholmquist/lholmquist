@@ -1,0 +1,1 @@
+Luke Holmquist is a senior software engineer at Red Hat. He is focused on the Node.js developer experience on OpenShift as part of the NodeShift project. While he is not a Node.js expert, he does pretend to be one at work.
