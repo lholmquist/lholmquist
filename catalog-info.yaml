@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: lholmquist
+  annotations:
+    github.com/project-slug: lholmquist/lholmquist
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/guest
